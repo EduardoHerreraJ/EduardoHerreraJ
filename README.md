@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="EduardoHJ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/eduardo-herrera-ju%C3%A1rez-4b7a5b1a9/)
-[<img align="left" alt="EduardoHJ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/lalo200x/)
+[<img align="left" alt="EduardoHJ | LinkedIn" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />](https://www.linkedin.com/in/eduardo-herrera-ju%C3%A1rez-4b7a5b1a9/)
+[<img align="left" alt="EduardoHJ | Instagram" width="22px" src="https://i1.wp.com/eltallerdehector.com/wp-content/uploads/2021/06/Logo-Instagram.png?w=512&ssl=1" />](https://www.instagram.com/lalo200x/)
 
 <br />
 
