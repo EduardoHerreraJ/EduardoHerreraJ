@@ -1,6 +1,6 @@
 ### Hi there, I'm Eduardo Herrera 👋
 
-## I'm a Software Sngineer Student!!
+## I'm a Software Engineer Student!!
 
 - 🏫 I'm currently in 7th Semester at Tecnológico de Monterrey CCM!
 - 💻 I’m currently learning R, Clojure and React.
