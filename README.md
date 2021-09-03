@@ -9,10 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="EduardoHJ | LinkedIn" width="22px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />](https://www.linkedin.com/in/eduardo-herrera-ju%C3%A1rez-4b7a5b1a9/)
-[<img align="left" alt="EduardoHJ | Instagram" width="22px" src="https://i1.wp.com/eltallerdehector.com/wp-content/uploads/2021/06/Logo-Instagram.png?w=512&ssl=1" />](https://www.instagram.com/lalo200x/)
+[<img align="left" alt="EduardoHJ | LinkedIn" width="50px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />](https://www.linkedin.com/in/eduardo-herrera-ju%C3%A1rez-4b7a5b1a9/)
+[<img align="left" alt="EduardoHJ | Instagram" width="5opx" src="https://i1.wp.com/eltallerdehector.com/wp-content/uploads/2021/06/Logo-Instagram.png?w=512&ssl=1" />](https://www.instagram.com/lalo200x/)
 
-<br />
+<br /><br />
 
 ### Languages:
 
@@ -33,7 +33,9 @@
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png)
 [<img align="left" alt="Unity" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png)
-<br />
+
+
+<br /><br />
 
 ### Frameworks
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
